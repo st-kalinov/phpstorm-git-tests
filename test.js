@@ -5,3 +5,7 @@ function masterBranch() {
 function secondBranch() {
     console.log("secondBranch");
 }
+
+function thirdFunction() {
+    console.log("asd");
+}
